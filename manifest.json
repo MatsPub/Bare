@@ -1,0 +1,16 @@
+{
+  "name": "Bare — photo metadata cleaner",
+  "short_name": "Bare",
+  "description": "See and strip the hidden device and location data in your photos. Runs entirely on your device.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1414",
+  "theme_color": "#0e1414",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
