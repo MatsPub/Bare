@@ -2,6 +2,8 @@
 
 **See what your photos and videos say about you — then strip it, entirely on your own device.**
 
+![PhotoMetadata](16.9-cleaned.png)
+
 Every photo and video carries hidden data most people never see: where it was taken, when, and on what device. Bare finds it, shows it to you plainly — including on a real offline map — and removes it. Nothing is ever uploaded anywhere; check your browser's network tab, or switch to airplane mode, and it still works.
 
 🔗 **[Try it live](https://matspub.github.io/Bare/)**
